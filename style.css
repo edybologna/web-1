@@ -45,7 +45,7 @@ main {
 .car {
 	width: calc(33.33% - 10px);
 	margin-bottom: 20px;
-	background-color: #434242;
+	background-color: #eb7a7a;
 	padding: 10px;
 }
 
@@ -71,6 +71,6 @@ footer {
 
 footer p{
 	color: #ea1a1a;
-     display: flex;
+     
 }
 
